@@ -1,4 +1,4 @@
-package com.masudbappy.restfulwebservices;
+package com.masudbappy.restfulwebservices.helloWorld;
 
 public class HelloWorldBean {
     private String message;

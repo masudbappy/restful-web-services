@@ -1,0 +1,11 @@
+#logging.level.org.springframework=debug
+server:
+  port: 8081
+mail:
+  from: masud.bappy90@gmail.com
+  to: masud.bappy90@gmail.com
+  smtp-server: 172.17.0.1
+  smtp-port: 2525
+  smtp-user:
+  smtp=passwd:
+  subject: '[Spring LOCAL] SYSTEM ERROR: '
